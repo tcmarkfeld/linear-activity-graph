@@ -2,7 +2,7 @@
 
 GitHub-style activity graphs for Linear ticket completions by team member.
 
-![Linear Activity Graph](./assets/screenshot.png)
+![Linear Activity Graph](./assets/linear-activity.png)
 
 ## Features
 
